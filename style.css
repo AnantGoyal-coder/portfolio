@@ -12,7 +12,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: whitesmoke;
     padding: 10px 0;
 }
 
@@ -38,7 +38,7 @@ section {
 }
 
 #home {
-    background: #f4f4f4;
+    background: cyan;
     padding: 100px 0;
 }
 
@@ -48,7 +48,7 @@ section {
 }
 
 .project {
-    background: #eaeaea;
+    background: lightgreen;
     margin: 10px;
     padding: 20px;
     width: 200px;
